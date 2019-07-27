@@ -1,0 +1,1 @@
+default['mydir'] = '/tmp/foo'
